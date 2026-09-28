@@ -1,0 +1,12 @@
+# I dati prodotti dallo strumento riguardano persone reali: non si pubblicano.
+dati/
+*.sqlite
+*.sqlite-journal
+OSINT_*_correlato*.csv
+OSINT_*_profilo.json
+osint_freno.json
+verifica_404_campione.csv
+__pycache__/
+.env/
+.venv/
+.DS_Store
